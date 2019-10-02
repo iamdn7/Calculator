@@ -1,1 +1,1 @@
-This is a README.md file. It's my first Calculator app.
+This is a README.md file. It's my first Android app.
